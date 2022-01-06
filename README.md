@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sabriscripts
+- 👀 I’m interested in Data Science, Big Data, BI, Python and Java. 
+- 🌱 I’m currently learning Java and Python. 
+- 📫 How to reach me: sabrinafciapz@gmail.com
